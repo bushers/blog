@@ -9,7 +9,7 @@
 title: Bushers' Blog - A blog by an aspriring web developer
 email: nickbushby1@gmail.com
 description: A blog by UK based web developer Nick Bushby.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: '/blog' # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: nickbushby1
 github_username:  bushers
